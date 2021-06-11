@@ -1,0 +1,5 @@
+Component: main
+Origin: https://github.com/kisekinopureya/deb-repo
+Label: https://github.com/kisekinopureya/deb-repo
+Architecture: arm64
+Description: My Personal repository

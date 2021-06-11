@@ -1,0 +1,7 @@
+Origin: https://github.com/Droidian-Mi-A2-6X/adaptation-repository
+Label: https://github.com/Droidian-Mi-A2-6X/adaptation-repository
+Codename: bullseye
+Architectures: arm64
+Components: main
+Description: Repository for Mi A2/6X related packages
+SignWith: D1FE997C
