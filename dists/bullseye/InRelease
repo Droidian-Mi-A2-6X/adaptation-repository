@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: https://github.com/Droidian-Mi-A2-6X/adaptation-repository
 Label: https://github.com/Droidian-Mi-A2-6X/adaptation-repository
 Codename: bullseye
-Date: Sat, 12 Jun 2021 20:41:36 UTC
+Date: Tue, 27 Jul 2021 23:07:40 UTC
 Architectures: arm64
 Components: main
 Description: Repository for Mi A2/6X related packages
 MD5Sum:
- a3825ba36c440b711862acec3f52b81b 10040 main/binary-arm64/Packages
- 4ff4670b0bfcbbcbde793bf0b21af0b1 1988 main/binary-arm64/Packages.gz
+ a637e89cdd95d98ccb7f19c71efce9f1 10074 main/binary-arm64/Packages
+ 1392e1a43ce3a8233ff7e8d576dcf659 2015 main/binary-arm64/Packages.gz
  e27145ec786cac2f71bb3268e8d08c2a 173 main/binary-arm64/Release
 SHA1:
- bd4477f74ccf37b1918f1efe321d12c9e05c56ea 10040 main/binary-arm64/Packages
- efea6676076e6d947c27983fb16f8e88935c0ba2 1988 main/binary-arm64/Packages.gz
+ 92fbdd29f77459160eacc2ca616fe8ecebc5b74f 10074 main/binary-arm64/Packages
+ 9e906115f6bc22ca24d817dffe18fd890b40234f 2015 main/binary-arm64/Packages.gz
  79ec2afd591e304bebac31c0a3c3b896d9214fde 173 main/binary-arm64/Release
 SHA256:
- fc6190b6432c9ebdf56fb3b157a7e972a56e270359cfd15cae5b98895a3a6c94 10040 main/binary-arm64/Packages
- 3d0a3b8038f703eadc1dbbde8ef6501a217574ac9da8f8d6379d33cf7b706224 1988 main/binary-arm64/Packages.gz
+ 31616a4f3921efce92755bc80174b799039c38ff9a07961ff13ca0d54ae4d882 10074 main/binary-arm64/Packages
+ 7240c50c083e9919a4d420b12258306d1900167da06964ca41f17561c7e01af0 2015 main/binary-arm64/Packages.gz
  429b47eebac57db9a1e8e0a15885e14b1c4a9e679190625146af37a22404388d 173 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEApzYUio4PbZAV8dCSzdFDWCZaaIFAmDFHAAACgkQSzdFDWCZ
-aaIbfQwAoCOErsU+WhSULoNqBSfnWsuZNF9gnu87sARHkPQbFiYzfza4/DEUeo+V
-sPKlnFGsDeozrQqbUZ4cQXQBe+YX/f8Kvb4uCW8U+A2bhdMUID9nc3vaZ8cL+e1C
-oNoybIk7+JPBLhR1jh0+r9LkPfA90u8kqlnQ2+tfRjFh7rwrtDk+kWeQiKycdiqQ
-HS9Zw7wttTvBepWf1X7HGNjQrDaBddpT9H6Zh3hcW7UZ1gwzOFRfu0KImrmEKMzC
-P5Le3rlKNMfpHITnNFEzblU/jdtr1tqzl/HR+DSrX/FJKur/Z5ZBG9jqAoy3d953
-xPjaOnfSHkf2tBJwUakpDZa8gcDEK6sNhcOK9y5XsjR2R4N0zBIn/ooWRMCADPw+
-Xhd4g/AS/DdqvFgeLDkIeGGR+NFpPapJ6YgFDgi4X2+D+Y9Bf4KXE4Zwh9Axi+QY
-696St6nqTGjYGlOqb1wN2RtxwvX8ntg6LTbgQyOrlJTwYfM7lMQ7WGJYYpa913od
-cDmNgQNd
-=1S+7
+iQGzBAEBCgAdFiEEApzYUio4PbZAV8dCSzdFDWCZaaIFAmEAkbwACgkQSzdFDWCZ
+aaKw5Qv/YtuvHT9ytAROl/pAyO/43SG4HR/RL9q2CxGjHwFhMPeWl5uN5/39Y6aA
+HUhSUKMBOp3R/ljhrhSz1jLe84NoKEkk/pVSQv8lOLWNG7SxQsAWf81jkVgx7lYx
+n8tmotMS7n7fgs1pEIDUmvXHsc6dJrpmxVzX9ndfzlyYDudDwxdcn7xYpdptZH52
+Wa0aGS8EMPYQ93kOUYWOFlXC8l9D4FWRRVKOJ5CWrSbmIsfseU4s9lbTTAK9RcZ1
+nT5UxvZqrV5s3Hx2YBJ8P+7LSdFuRiuJcWTu3SNc3qNbIF87NQFnKr8BytnWaH7e
+8Y0FBle/dhCd5Sh5BX9+oPbmua3BItDt3P9y9ZtPXrFdebE2EHj32DwvkB01Jl0g
+Duk13j7AbnntUEbWsZDF3YiyJP6P0ym+w1ASbBA2miAO6Gql5kQiaruWIntA7nO5
+XxjC0OyFtaIzChyKxFCHN+hjX7u/Y0ggxUdFHJ7kJRuFexT0+3Gq1926LE+uEkBO
+0e3HREpr
+=dX8a
 -----END PGP SIGNATURE-----
