@@ -1,19 +1,19 @@
 Origin: https://github.com/Droidian-Mi-A2-6X/adaptation-repository
 Label: https://github.com/Droidian-Mi-A2-6X/adaptation-repository
 Codename: bullseye
-Date: Tue, 27 Jul 2021 23:07:40 UTC
+Date: Wed, 28 Jul 2021 12:39:23 UTC
 Architectures: arm64
 Components: main
 Description: Repository for Mi A2/6X related packages
 MD5Sum:
- a637e89cdd95d98ccb7f19c71efce9f1 10074 main/binary-arm64/Packages
- 1392e1a43ce3a8233ff7e8d576dcf659 2015 main/binary-arm64/Packages.gz
+ 9906e011947f1618c2ac3fae5764817c 10108 main/binary-arm64/Packages
+ 8791c1a9130985ec5b82c00c74b0322d 1974 main/binary-arm64/Packages.gz
  e27145ec786cac2f71bb3268e8d08c2a 173 main/binary-arm64/Release
 SHA1:
- 92fbdd29f77459160eacc2ca616fe8ecebc5b74f 10074 main/binary-arm64/Packages
- 9e906115f6bc22ca24d817dffe18fd890b40234f 2015 main/binary-arm64/Packages.gz
+ 2d9a84b5718b3142eae8c19ff244c2f4bcc78a44 10108 main/binary-arm64/Packages
+ 4eecf3d1432b54a561421731262ba6f9131cfb5c 1974 main/binary-arm64/Packages.gz
  79ec2afd591e304bebac31c0a3c3b896d9214fde 173 main/binary-arm64/Release
 SHA256:
- 31616a4f3921efce92755bc80174b799039c38ff9a07961ff13ca0d54ae4d882 10074 main/binary-arm64/Packages
- 7240c50c083e9919a4d420b12258306d1900167da06964ca41f17561c7e01af0 2015 main/binary-arm64/Packages.gz
+ a207266f68ee3952ea492b311c4207c48e1c2c0961a158d4113eea78355acb12 10108 main/binary-arm64/Packages
+ 154e12f9167efb2db99177342ea74e9a08f7ac083a9f948a7aa9fed03907645f 1974 main/binary-arm64/Packages.gz
  429b47eebac57db9a1e8e0a15885e14b1c4a9e679190625146af37a22404388d 173 main/binary-arm64/Release
