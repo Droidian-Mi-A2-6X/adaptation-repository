@@ -1,3 +1,35 @@
+Package: adaptation-xiaomi-wayne
+Version: 18+git20211007074647.d207f05.bullseye
+Architecture: all
+Maintainer: kisekinopureya <gokhanozdemir753@gmail.com>
+Installed-Size: 10
+Depends: linux-bootimage-xiaomi-wayne, adaptation-hybris-api28-phone, adaptation-xiaomi-wayne-configs
+Priority: optional
+Section: metapackages
+Filename: pool/main/a/adaptation-xiaomi-wayne/adaptation-xiaomi-wayne_18+git20211007074647.d207f05.bullseye_all.deb
+Size: 3296
+SHA256: 5be7859ab04b4d28ae7da13fba28e1aca1e48de494a6430b87ef1ecf49801341
+SHA1: 998e8a9a82461519b36d54ca15a70e33f2e494f2
+MD5sum: 2b26a0fcca35db3a23b85b109d7c5ffc
+Description: adapatation-xiaomi-wayne - meta
+ Xiaomi Mi 6X api28 adaptation metapackage
+
+Package: adaptation-xiaomi-wayne-configs
+Source: adaptation-xiaomi-wayne
+Version: 18+git20211007074647.d207f05.bullseye
+Architecture: all
+Maintainer: kisekinopureya <gokhanozdemir753@gmail.com>
+Installed-Size: 64
+Depends: adaptation-xiaomi-wayne (= 18+git20211007074647.d207f05.bullseye)
+Priority: optional
+Section: metapackages
+Filename: pool/main/a/adaptation-xiaomi-wayne/adaptation-xiaomi-wayne-configs_18+git20211007074647.d207f05.bullseye_all.deb
+Size: 8408
+SHA256: 553ef8de4d11741f6d7a850b02901fd6fbf6b678c195372eeb0ccee252e271be
+SHA1: dde714193f263e8f37f36fd91fccf2981423a295
+MD5sum: b1999e3d2b2d289801759044c3ae600e
+Description: Xiaomi Mi 6X specific adaptation configs
+
 Package: linux-bootimage-4.4-0-xiaomi-jasmine-sprout
 Source: linux-android-xiaomi-jasmine-sprout
 Version: 0.0.0+git20210701142245.d73e516.bullseye.9
